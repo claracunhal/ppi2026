@@ -2,7 +2,7 @@
 Programação para internet - aula 06/05
    - Introdução ao Javascript 
 */
-
+//
 console.log("Welcome to ppi");
 
 //Variáveis
