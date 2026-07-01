@@ -57,5 +57,4 @@ resultado.map((filme) => {
   lista.push(
     filme.titulo + "(" + filme.ano + ")" + "-" + filme.genero
   );
-}
-
+})
