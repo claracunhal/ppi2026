@@ -34,6 +34,10 @@ function App() {
     );
   }
 
+  function handleDeleteNotice(id) {
+    
+  }
+
   return (
     <>
       <Header
